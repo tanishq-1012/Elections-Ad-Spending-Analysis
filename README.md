@@ -78,6 +78,12 @@ Let's have a look at the top 5 Parties by ad spend:
 The Bharatiya Janata Party (BJP) has the highest ad spend, accounting for 42.3% of the total. This is followed by the Ama Chinha Sankha Chinha party at 24.5% and the Indian National Congress at 23.7%. Ellorum Nammudan and BJP Odisha have significantly lower ad spends, at 5.19% and 4.27%, respectively. It indicates that BJP dominates in terms of ad spending on Facebook and Instagram ads, with nearly half of the total expenditure, suggesting a significant investment in advertising compared to other parties.
 
 
+## Correlation
 
+Let's have a look at the correlation between ad spend and voter turnout:
+
+<img width="457" alt="Screenshot 2025-03-19 at 2 38 40 PM" src="https://github.com/user-attachments/assets/f322fa0f-979a-4b6b-9c7f-f19451335756" />
+
+The correlation matrix shows that the relationship between the amount spent (INR) and the percentage of votes polled (%) is very weak and slightly negative, with a correlation coefficient of -0.010688. This indicates that there is virtually no linear relationship between ad spend and voter turnout. In other words, increasing the amount spent on advertising does not significantly affect the percentage of voter turnout.
 
 
