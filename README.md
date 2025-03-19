@@ -30,3 +30,25 @@ If you are highly active on Facebook and Instagram, you must have seen ads based
 2. The **Location Dataset** shows how much money was spent on ads in different locations, indicating where the campaigns were focusing their efforts.
 
 3. The **Result Dataset** provides actual voting data, showing how many people voted in each area and the percentage of voter turnout.
+
+## Dataset
+
+**Result**
+
+<img width="872" alt="Screenshot 2025-03-19 at 2 35 38 PM" src="https://github.com/user-attachments/assets/99c94a87-0830-4485-9554-5d40170c8ec5" />
+
+<img width="845" alt="Screenshot 2025-03-19 at 2 36 06 PM" src="https://github.com/user-attachments/assets/59063d0e-9908-4f70-9f4e-1bcb1b82c236" />
+
+**Advertisers**
+
+<img width="1039" alt="Screenshot 2025-03-19 at 2 36 28 PM" src="https://github.com/user-attachments/assets/734de895-99f7-4217-9e4a-1736edee9e1d" />
+
+<img width="1007" alt="Screenshot 2025-03-19 at 2 36 45 PM" src="https://github.com/user-attachments/assets/b92bfc01-611c-4e77-ac2e-cb6eb5da20df" />
+
+**Location**
+
+<img width="386" alt="Screenshot 2025-03-19 at 2 37 06 PM" src="https://github.com/user-attachments/assets/d62847af-8bcd-412a-9e6e-1245435dc4bc" />
+
+The results data has a column named state, and the location data has a column named location name. We will merge these data sets using these columns.
+
+<img width="1064" alt="Screenshot 2025-03-19 at 2 37 22 PM" src="https://github.com/user-attachments/assets/a535c9be-3611-4588-83de-d82fa52245bc" />
