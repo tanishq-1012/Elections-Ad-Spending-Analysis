@@ -52,3 +52,20 @@ If you are highly active on Facebook and Instagram, you must have seen ads based
 The results data has a column named state, and the location data has a column named location name. We will merge these data sets using these columns.
 
 <img width="1064" alt="Screenshot 2025-03-19 at 2 37 22 PM" src="https://github.com/user-attachments/assets/a535c9be-3611-4588-83de-d82fa52245bc" />
+
+## Plot 1
+
+Let's have a look at the total ad spend by state:
+
+<img width="886" alt="Screenshot 2025-03-19 at 2 37 40 PM" src="https://github.com/user-attachments/assets/84f4e00e-b08e-49cd-92a2-9e2ee7b45426" />
+
+The bar graph shows the total ad spend (in INR) by state. Uttar Pardesh leads significantly with the higest ad spend, followed by Maharahstra and Odisha. States like West Bengal, Tamil Nadu, Andhra Pradesh, and Bihar also show substantial ad expenditures. In contrast states such as Lakshadweep, Dadra & Nagar Haveli, Daman and Diu, Andaman & Nicobar Islands, and Arunachal Pardesh have the lowest ad spend. It indicates that larger and more populous states tend to spend more on ads, likely reflecting their greater political significance and larger voter base.
+
+
+
+
+
+
+
+
+
