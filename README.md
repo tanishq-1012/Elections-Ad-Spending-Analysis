@@ -61,9 +61,21 @@ Let's have a look at the total ad spend by state:
 
 The bar graph shows the total ad spend (in INR) by state. Uttar Pardesh leads significantly with the higest ad spend, followed by Maharahstra and Odisha. States like West Bengal, Tamil Nadu, Andhra Pradesh, and Bihar also show substantial ad expenditures. In contrast states such as Lakshadweep, Dadra & Nagar Haveli, Daman and Diu, Andaman & Nicobar Islands, and Arunachal Pardesh have the lowest ad spend. It indicates that larger and more populous states tend to spend more on ads, likely reflecting their greater political significance and larger voter base.
 
+## Plot 2
 
+Let's have a look at the average voter turnout by state:
 
+<img width="886" alt="Screenshot 2025-03-19 at 2 37 56 PM" src="https://github.com/user-attachments/assets/a5787130-94d6-4d00-ace7-51322abd537e" />
 
+Lakshadweep has the highest average voter turnout at nearly 80%, followed closely by Tripura and Assam. States like Andhra Pradesh, Sikkim, and West Bengal also show high voter engagement, with turnouts above 70%. On the other end of the spectrum, states such as Bihar, Uttar Pradesh, and Uttarakhand have the lowest average voter turnout, around 50-55%. It indicates significant regional variations in voter participation, with some smaller states and union territories exhibiting higher engagement compared to larger states with higher ad spend.
+
+## Plot 3
+
+Let's have a look at the top 5 Parties by ad spend:
+
+<img width="1067" alt="Screenshot 2025-03-19 at 2 38 17 PM" src="https://github.com/user-attachments/assets/7147d710-17be-4aec-9414-32ae15147b09" />
+
+The Bharatiya Janata Party (BJP) has the highest ad spend, accounting for 42.3% of the total. This is followed by the Ama Chinha Sankha Chinha party at 24.5% and the Indian National Congress at 23.7%. Ellorum Nammudan and BJP Odisha have significantly lower ad spends, at 5.19% and 4.27%, respectively. It indicates that BJP dominates in terms of ad spending on Facebook and Instagram ads, with nearly half of the total expenditure, suggesting a significant investment in advertising compared to other parties.
 
 
 
