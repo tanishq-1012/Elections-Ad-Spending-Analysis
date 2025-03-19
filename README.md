@@ -122,7 +122,7 @@ Plotly (Data visualization)
 
 ## Installation
 
-1.**Clone the repository**: git clone https://github.com/your-username/Elections-Ad-Spending-Analysis.git
+1.**Clone the repository**: git clone https://github.com/tanishq-1012/Elections-Ad-Spending-Analysis.git
 
 2.**Nevigate to the project directory**: cd Elections-Ad-Spending-Analysis
 
@@ -144,8 +144,26 @@ Plotly (Data visualization)
 
 **locations.csv**: Mapping of locations and states.
 
+## Insights
 
+Identifies the states with the highest ad spending.
 
+Examines whether higher ad spending translates to increased voter turnout.
 
+Highlights the political parties with the highest advertising budgets.
 
+## Conclusion
 
+Overall, the analyses indicate that higher ad spend does not guarantee higher voter turnout and voter engagement is influenced by various other factors. Larger and more significant states tend to spend more on ads, but this does not necessarily translate to higher voter participation. Political parties, particularly the BJP, invest heavily in advertising, yet the effectiveness of this spending in increasing voter turnout is questionable.
+
+## Future Improvements
+
+Include more granular data on ad categories.
+
+Integrate social media sentiment analysis.
+
+Enhance visualizations with interactive filters.
+
+## Author
+
+Tanishq Sharma
