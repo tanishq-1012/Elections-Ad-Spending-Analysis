@@ -96,8 +96,13 @@ Let's have a look at the relationship between ad spend and voter turnout by parl
 
 It shows that higher ad spending does not necessarily correlate with higher voter turnout. Voter turnout seems to cluster between 60% and 80% across most constituencies, regardless of the ad spend amount, which ranges from 0 to 150 million INR. This suggests that other factors besides ad spend may play a significant role in influencing voter turnout.
 
+## Plot 5
 
+Let's have a look at the distribution of ad spending:
 
+<img width="868" alt="Screenshot 2025-03-19 at 2 39 39 PM" src="https://github.com/user-attachments/assets/a222729a-671e-441e-9231-7303827625e9" />
+
+The histogram indicates that most constituencies have ad spends clustered around the 50M and 100M INR marks, with fewer constituencies spending less than 10M INR or more than 150M INR. The box plot highlights that the median ad spend is around 70M INR, with the interquartile range (IQR) spanning from approximately 30M to 110M INR. There are a few outliers, particularly a constituency with an exceptionally high ad spend above 150M INR. This distribution suggests that while the majority of ad spends are concentrated within a certain range, there are notable exceptions with significantly higher expenditures.
 
 
 
