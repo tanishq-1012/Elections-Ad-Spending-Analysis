@@ -86,4 +86,20 @@ Let's have a look at the correlation between ad spend and voter turnout:
 
 The correlation matrix shows that the relationship between the amount spent (INR) and the percentage of votes polled (%) is very weak and slightly negative, with a correlation coefficient of -0.010688. This indicates that there is virtually no linear relationship between ad spend and voter turnout. In other words, increasing the amount spent on advertising does not significantly affect the percentage of voter turnout.
 
+## Plot 4
+
+Let's have a look at the relationship between ad spend and voter turnout by parlimentary constituency:
+
+<img width="868" alt="Screenshot 2025-03-19 at 2 39 06 PM" src="https://github.com/user-attachments/assets/e844efc2-892d-44ec-8369-4037ac1b0131" />
+
+<img width="868" alt="Screenshot 2025-03-19 at 2 39 18 PM" src="https://github.com/user-attachments/assets/fc8fe8c6-0b54-45cf-b579-af4ab6bf5cc2" />
+
+It shows that higher ad spending does not necessarily correlate with higher voter turnout. Voter turnout seems to cluster between 60% and 80% across most constituencies, regardless of the ad spend amount, which ranges from 0 to 150 million INR. This suggests that other factors besides ad spend may play a significant role in influencing voter turnout.
+
+
+
+
+
+
+
 
