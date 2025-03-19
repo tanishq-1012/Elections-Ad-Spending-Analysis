@@ -104,7 +104,11 @@ Let's have a look at the distribution of ad spending:
 
 The histogram indicates that most constituencies have ad spends clustered around the 50M and 100M INR marks, with fewer constituencies spending less than 10M INR or more than 150M INR. The box plot highlights that the median ad spend is around 70M INR, with the interquartile range (IQR) spanning from approximately 30M to 110M INR. There are a few outliers, particularly a constituency with an exceptionally high ad spend above 150M INR. This distribution suggests that while the majority of ad spends are concentrated within a certain range, there are notable exceptions with significantly higher expenditures.
 
+## Plot 6
 
+Let's analyze ad spending and voter turnout by election phase:
 
+<img width="810" alt="Screenshot 2025-03-19 at 2 40 07 PM" src="https://github.com/user-attachments/assets/7805655e-5aec-4113-ae82-57a2e7071d2b" />
 
+There is no consistent trend between ad spend and voter turnout. Election phases 1 and 4 have the highest ad spends, with phase 4 peaking in voter turnout at around 70%. However, phase 1, despite high ad spend, has a lower voter turnout of about 67%. Phases with moderate ad spend (e.g., 2 and 6) have lower voter turnout, while phase 5 has a notably low turnout despite moderate spending.
 
