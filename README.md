@@ -112,3 +112,40 @@ Let's analyze ad spending and voter turnout by election phase:
 
 There is no consistent trend between ad spend and voter turnout. Election phases 1 and 4 have the highest ad spends, with phase 4 peaking in voter turnout at around 70%. However, phase 1, despite high ad spend, has a lower voter turnout of about 67%. Phases with moderate ad spend (e.g., 2 and 6) have lower voter turnout, while phase 5 has a notably low turnout despite moderate spending.
 
+## Technologies Used
+
+Python
+
+Pandas (Data manipulation and cleaning)
+
+Plotly (Data visualization)
+
+## Installation
+
+1.**Clone the repository**: git clone https://github.com/your-username/Elections-Ad-Spending-Analysis.git
+
+2.**Nevigate to the project directory**: cd Elections-Ad-Spending-Analysis
+
+3.**Install dependencies**: pip install pandas plotly
+   
+## Usage
+
+1. Ensure the dataset files (results.csv, advertisers.csv, locations.csv) are placed in the elections-data/ folder.
+
+2. Run the script: python analysis.py
+
+3. Visualizations will be displayed within Jupyter Notebook, and insights will be printed in the output cells.
+
+## Data Sources
+
+**results.csv**: Election results with voter turnout percentages.
+
+**advertisers.csv**: Political parties and their ad spending data.
+
+**locations.csv**: Mapping of locations and states.
+
+
+
+
+
+
